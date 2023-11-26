@@ -1,18 +1,18 @@
 body{
-	 padding:0;
+	padding:0;
     margin: 0;
 }
 .words-wrapper {
     display: none;
     width:0%;
 }
-.d{
-	margin:0;
-}
+
 main {
     width: 100%;
 }
-
+.d{
+margin:0;
+}
 .content {
     width: 100%;
 }
