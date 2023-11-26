@@ -1,0 +1,228 @@
+body {
+    margin: 0;
+    background: linear-gradient(#A32909, #010101);
+    background-attachment: fixed;
+}
+
+header {
+    width: 100%;
+    height: 15%;
+    background-color: black;
+}
+
+.logo {
+    background-color: black;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.marvel {
+    height: 90px;
+}
+
+.words_p {
+    color: black;
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.words-wrapper {
+    background-color: red;
+    width: 30%;
+    border: 20px solid red;
+}
+
+.logo-words {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+    border-radius: 20%;
+    border: outset black 3px;
+}
+
+.words {
+    display: flex;
+    flex-direction: row-reverse;
+	width: 420px;
+	margin:20px auto; 
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 20px;
+
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    width: 750px;
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+.nav-div {
+    padding-top: 17px;
+    width: 150px;
+    height: 50px;
+}
+
+.nav-div:hover {
+    background-color: rgb(39, 41, 61);
+}
+
+nav {
+    background-color: black;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 70%;
+    margin-bottom: 20px;
+
+}
+
+.content {
+    width: 70%;
+}
+
+.spider-men-game {
+    background-color: black;
+    width: 100%;
+    margin-top: 50px;
+    height: 300px;
+    padding-top: 50px;
+
+}
+
+.game2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.game {
+    width: 200px;
+}
+
+.game-content {
+    margin-left: 200px;
+    display: flex;
+    flex-direction: row;
+}
+
+.game-h3 {
+    color: white;
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.game-column {
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+}
+
+.films {
+    background-color: black;
+    width: 100%;
+    margin-top: 50px;
+    height: 380px;
+}
+
+.film-h1 {
+    color: white;
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
+.film-content {
+    display: flex;
+    flex-direction: row;
+}
+
+.film-exact {
+    background-color: white;
+    height: 340px;
+    width: 240px;
+    margin-top: 20px;
+    border: 5px solid white;
+    margin-left: 20px;
+}
+
+.film-exact h3 {
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.film-exact img {
+    width: 190px;
+    height: 262px;
+}
+
+.film-exact-content {
+    width: 193px;
+    margin: 0 auto;
+}
+
+.film-info {
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+footer {
+    width: 100%;
+    height: 15%;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+
+.footer_a {
+    width: 50px;
+
+}
+
+.footer_a_y {
+    width: 50px;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+
+.logo_footer {
+    width: 300px;
+    height: 100px;
+    margin-top: 5%;
+    margin-left: 100px;
+}
+
+footer h3 {
+    color: white;
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.footer_column {
+
+    margin-left: 100px;
+}
+
+.footer_content {
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}

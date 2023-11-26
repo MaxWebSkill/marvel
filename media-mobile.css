@@ -1,0 +1,128 @@
+body{
+	 padding:0;
+    margin: 0;
+}
+.words-wrapper {
+    display: none;
+}
+
+main {
+    width: 100%;
+}
+
+.content {
+    width: 100%;
+}
+
+.marvel {
+    width: 120px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.nav-div a {
+    font-size: 10px;
+}
+
+.nav-div {
+    width: 50px;
+    height: 30px;
+    padding-top: 5px;
+}
+
+.nav {
+    width: 250px;
+    margin: 0 auto;
+}
+
+.game-content {
+    width: 421px;
+    margin: 0 auto;
+}
+
+.game2 {
+    width: 150px;
+    height: 50px;
+    margin-left: 50px;
+}
+
+.game-h3 {
+    font-size: 15px;
+}
+
+.game {
+    width: 150px;
+    height: 200px;
+}
+
+.game-column {
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.films {
+    display: none;
+}
+
+.logo_footer {
+    width: 200px;
+    height: 70px;
+
+}
+
+.footer_a_y {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.footer_a {
+    width: 30px;
+    height: 30px;
+}
+
+footer h3 {
+    font-size: 15px;
+}
+
+.footer_column {
+    margin-left: 15px;
+}
+
+.logo {
+    width: 100%;
+}
+
+.spider-men-game {
+    height: 230px;
+}
+.posters-content{
+	display:flex;
+	flex-direction:column;
+}
+.posters{
+	height:100%;
+	width:100%;
+}
+.posters-info{
+	display:flex;
+	flex-direction:column;
+}
+.posters-info img{
+	width:140px;
+	height:200px;
+	margin-left:0px;
+}
+.posters-info img:hover{
+	width:155px;
+	height:215px;
+	margin-left:0px;
+}
+.posters-exact{
+	height:200px;
+}
+.heroes-row{
+	display:flex;
+	flex-direction:column;
+	width:240px;
+}
