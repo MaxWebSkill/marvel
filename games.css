@@ -5,6 +5,9 @@ body {
 	background-attachment:fixed;
 		    font-family: monospace;
 }	
+.d{
+	margin:0;
+}
 header {
     width: 100%;
 	height:15%;
