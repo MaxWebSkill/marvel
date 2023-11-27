@@ -4,7 +4,9 @@ body {
 		background:linear-gradient(#A32909, #010101);
 	background-attachment:fixed;
 }
-
+.d{
+	margin:0;
+}
 header {
     width: 100%;
 	height:15%;
