@@ -9,7 +9,9 @@ header {
 	height:15%;
     background-color: black;
 }
-
+.d{
+	margin:0;
+}
 .logo {
     background-color: black;
     width: 500px;
